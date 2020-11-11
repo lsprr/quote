@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/lparra/quote">
+  <a href="https://github.com/lsprr/quote">
     <img src="./demo/quote.png">
   </a>
   <h1 align="center">Quote</h1>
@@ -14,7 +14,7 @@
 * [License](#license)
 
 ## About The Project
-Quote is a simple random quote generator. It returns a single random quote from the [database](https://github.com/lukePeavey/quotable). 
+Quote is a simple random quote generator. It returns a single random quote from the [database](https://github.com/lukePeavey/quotable).
 
 
 ### Built With
